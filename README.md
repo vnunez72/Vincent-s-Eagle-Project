@@ -57,6 +57,13 @@ I would like to thank:
 - My family and friends for their encouragement and hard work
 - Everyone who generously donated to help fund the project
 
+
+<p align="center">
+  <img src="IMG_4632.jpeg" alt="Project Photo 1" width="400"/>
+  <img src="IMG_4645.jpeg" alt="Project Photo 2" width="400"/>
+  <img src="IMG_4650.jpeg" alt="Project Photo 3" width="400"/>
+</p>
+
 ---
 
 ## Contact
